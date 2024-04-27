@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.GithubRepoFinder" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+    <style name="SplashScreenStyle" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/animated_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.GithubRepoFinder</item>
+
+    </style>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Github Repo Finder</string>
+    <string name="search_text">Search repos…</string>
+    <string name="error_text">"Something went wrong…"</string>
+    <string name="no_repo_found">No repositories found</string>
+    <string name="download_complete">Download complete</string>
+    <string name="error_download">Error during download. Please try again later.</string>
+    <string name="no_downloaded_repo_found">No downloaded repositories found</string>
+</resources>
